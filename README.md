@@ -1,2 +1,22 @@
-# Climate-Challenge
+# Climate Challenge
 An iOS app that aims to inspire people to take action to be more environmentally responsible through fun challenges
+
+
+
+## Mockups
+Here are the mockups of what the final product could look like:
+
+
+## Current state of development
+
+
+## Technical details
+The app is build using Swift and Xcode and implements services from Google Firebase (Firestore)
+
+Data structure: 
+The project makes use of 3 important custom objects: 
+- User -> Stores information about a user (such as name, id, completed tasks and leagues the user is a part of)
+- Task -> Stores information about a specific task
+- League -> Stores all the leagues and their members
+
+The application uses the REMA font and vivd colors (selected using flatuicolors.com) to make for a playful UI.
