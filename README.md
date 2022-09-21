@@ -1,5 +1,5 @@
 # Climate Challenge
-<img width="50" alt="Mockup" src="https://user-images.githubusercontent.com/59290941/191536387-7896e599-a48e-40b8-898d-f0b16944c461.png">
+<img align="left" width="50" alt="Mockup" src="https://user-images.githubusercontent.com/59290941/191536387-7896e599-a48e-40b8-898d-f0b16944c461.png">
 An iOS app that aims to inspire people to take action to be more environmentally responsible through fun challenges
 
 Compete against your friends to see who is able to complete the most environmentally responsible actions!
