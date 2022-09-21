@@ -7,8 +7,9 @@ How it works:
 There are daily and weekly challenges (for example: "use public transports" or "plant a seed") that grant you a certain amount of points based on difficulty upon completion. By creating and participating in leagues, you can compete against your friends to earn the highest possible amount of points!
 
 ## Mockups
-Here are the mockups of what the final product could look like:
 
+Here are the mockups of what the final product could look like:
+<img width="394" alt="Screen Shot 2022-09-21 at 7 41 59 AM" src="https://user-images.githubusercontent.com/59290941/191535077-5d33d7a4-7f00-408a-80c1-6e337294a59a.png">
 
 ## Current state of development
 
